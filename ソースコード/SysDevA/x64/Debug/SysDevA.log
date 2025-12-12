@@ -1,0 +1,23 @@
+﻿  common.c
+C:\Users\hirom\Desktop\ソフトウェア開発演習\2023年度\forStudent\演習資料\ソースコード\common.c(41,9): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\hirom\Desktop\ソフトウェア開発演習\2023年度\forStudent\演習資料\ソースコード\common.c(82,9): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\hirom\Desktop\ソフトウェア開発演習\2023年度\forStudent\演習資料\ソースコード\common.c(116,9): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\hirom\Desktop\ソフトウェア開発演習\2023年度\forStudent\演習資料\ソースコード\common.c(168,9): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\hirom\Desktop\ソフトウェア開発演習\2023年度\forStudent\演習資料\ソースコード\common.c(213,16): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\hirom\Desktop\ソフトウェア開発演習\2023年度\forStudent\演習資料\ソースコード\common.c(301,9): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\hirom\Desktop\ソフトウェア開発演習\2023年度\forStudent\演習資料\ソースコード\common.c(554,9): warning C4477: 'printf' : 書式文字列 '%s' には、型 'char *' の引数が必要ですが、可変個引数 1 は型 'const TITLE' です
+  goods.c
+C:\Users\hirom\Desktop\ソフトウェア開発演習\2023年度\forStudent\演習資料\ソースコード\goods.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  lend.c
+C:\Users\hirom\Desktop\ソフトウェア開発演習\2023年度\forStudent\演習資料\ソースコード\goods.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  main.c
+  member.c
+  menu.c
+C:\Users\hirom\Desktop\ソフトウェア開発演習\2023年度\forStudent\演習資料\ソースコード\goods.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  ret.c
+C:\Users\hirom\Desktop\ソフトウェア開発演習\2023年度\forStudent\演習資料\ソースコード\goods.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  コードを生成中...
+C:\Users\hirom\Desktop\ソフトウェア開発演習\2023年度\forStudent\演習資料\ソースコード\menu.c(492,1): warning C4716: 'MemberManageMenu': 値を返さなければいけません
+C:\Users\hirom\Desktop\ソフトウェア開発演習\2023年度\forStudent\演習資料\ソースコード\member.c(238,1): warning C4716: 'InputRegistMember': 値を返さなければいけません
+C:\Users\hirom\Desktop\ソフトウェア開発演習\2023年度\forStudent\演習資料\ソースコード\member.c(339,1): warning C4716: 'InputUpdateMember': 値を返さなければいけません
+  SysDevA.vcxproj -> C:\Users\hirom\Desktop\ソフトウェア開発演習\2023年度\forStudent\演習資料\ソースコード\x64\Debug\SysDevA.exe
